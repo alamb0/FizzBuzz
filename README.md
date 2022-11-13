@@ -1,6 +1,6 @@
 # FizzBuzz in Multiple Languages
 
-From 1 to 100, if multiple of 3 print Fizz, if multiple of 5 print Buzz, if multiple of 15 print FizzBuzz, otherwise print number.
+From 1 to 100, if multiple of 3 print Fizz, if multiple of 5 print Buzz, if multiple of both 3 and 5 print FizzBuzz, otherwise print number.
 
 Constraints: 
 - 1 to 100 in whole numbers
